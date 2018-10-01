@@ -190,7 +190,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/taido/proprietary/lib/libmtkjpeg.so:system/lib/libmtkjpeg.so \
     vendor/motorola/taido/proprietary/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
     vendor/motorola/taido/proprietary/lib/libmtkshifter.so:system/lib/libmtkshifter.so \
-    vendor/motorola/taido/proprietary/lib/libnetutils.so:system/lib/libnetutils.so \
     vendor/motorola/taido/proprietary/lib/libnvram.so:system/lib/libnvram.so \
     vendor/motorola/taido/proprietary/lib/libnvram_daemon_callback.so:system/lib/libnvram_daemon_callback.so \
     vendor/motorola/taido/proprietary/lib/libnvram_platform.so:system/lib/libnvram_platform.so \
